@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 #!usr/bin/python
-
-=======
-#!usr/bin/python3
->>>>>>> aa49328d4e90bc44b3b9af3e97a85597d7bcf464
 import fileinput
 
 buttons = {"du:1" : "Up",
